@@ -1,6 +1,8 @@
 <h1 align="center">Hi 💗, I'm Anabella Simonpietri</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anabellasimonpietri&label=Profile%20views&color=f953ab&style=flat" alt="anabellasimonpietri" /> </p>
+
 - 📫 How to reach me **simonpietrianabella@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,8 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anabellasimonpietri&show_icons=true&bg_color=e853a2&hide_border=true&locale=en&layout=compact" alt="anabellasimonpietri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anabellasimonpietri&show_icons=true&title_color=000000&bg_color=e853a2&hide_border=true&locale=en" alt="anabellasimonpietri" /></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anabellasimonpietri&label=Profile%20views&color=f953ab&style=flat" alt="anabellasimonpietri" /> </p>
 
 ![github-contribution-grid-snake-dark](https://user-images.githubusercontent.com/120821574/222217388-561379fb-42c5-4d77-b719-6d0535296002.svg)
