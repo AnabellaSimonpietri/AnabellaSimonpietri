@@ -1,4 +1,4 @@
-<h1 align="center">💗HELLO THERE💗</h1>
+<h1 align="center">HELLO</h1>
 <h3 align="center">I'm Anabella Simonpietri, a passionate full stack developer from Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anabellasimonpietri&label=Profile%20views&color=f953ab&style=flat" alt="anabellasimonpietri" /> </p>
